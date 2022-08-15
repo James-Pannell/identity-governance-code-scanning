@@ -1,9 +1,0 @@
-esaf-forms/Sentillion/proVision/Configuration/Applications/27625_Badge_Request.xml:18: parser error : EntityRef: expecting ';'
-		&WorkflowAttributes		
-		                   ^
-esaf-forms/Sentillion/proVision/Configuration/Applications/Roles.xml:12237: element Role: validity error : Element Role content does not follow the DTD, expecting (DisplayName , Description? , ApplicationConfigurations?), got (DisplayName ApplicationConfiguration )
-    </Role>
-           ^
-esaf-forms/Sentillion/proVision/Configuration/Applications/Roles.xml:16442: element Role: validity error : Element Role content does not follow the DTD, expecting (DisplayName , Description? , ApplicationConfigurations?), got (CDATA DisplayName ApplicationConfigurations )
-    </Role>
-           ^
